@@ -1,4 +1,4 @@
-<b> Number Guessing Game </b>
+# Number Guessing Game
 
 How to play :
 1. Input player name and start the game
